@@ -8,8 +8,8 @@ import (
 func getOsName() string {
 	return "mac"
 }
-func main() {
 
+func main() {
 	switch os := getOsName(); os {
 	case "mac":
 		fmt.Println("Mac!!")
@@ -25,6 +25,5 @@ func main() {
 		fmt.Println("Morning")
 	case t.Hour() < 17:
 		fmt.Println("Afternoon")
-
 	}
 }

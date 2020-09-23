@@ -10,5 +10,5 @@ func main() {
 
 	var p2 *int
 	fmt.Println(p2)
-	fmt.Printf("%T\n",p2)
+	fmt.Printf("%T\n", p2)
 }

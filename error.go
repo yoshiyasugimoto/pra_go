@@ -14,7 +14,7 @@ func main() {
 	defer file.Close()
 	data := make([]byte, 100)
 	count, err := file.Read(data)
-	if err != nil{
+	if err != nil {
 		log.Fatalln("Error")
 	}
 	fmt.Println(count, string(data))

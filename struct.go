@@ -7,11 +7,11 @@ type Vertex struct {
 	s    string
 }
 
-func changeVertex(v Vertex){
-	v.X =1000
+func changeVertex(v Vertex) {
+	v.X = 1000
 }
-func changeVertex2(v *Vertex){
-	v.X =1000
+func changeVertex2(v *Vertex) {
+	v.X = 1000
 }
 
 func main() {

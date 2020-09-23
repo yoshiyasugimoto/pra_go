@@ -1,3 +1,9 @@
+github.com/markcheno/go-quote v0.0.0-20200818012048-ef4cf9bac8d0 h1:XBIiBw2iyUsJCc8/L7Dlho7YdungbuVISCV493AkLXY=
+github.com/markcheno/go-quote v0.0.0-20200818012048-ef4cf9bac8d0/go.mod h1:cDo3FVvBpEI83B1KazdWnVAh4K2F0ing4aCEEanmh9o=
+github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70 h1:+iG37/Aw61Oc+ZJ4DSxQF2+K0e4ZiMidI7ytWuW4/cI=
+github.com/markcheno/go-talib v0.0.0-20190307022042-cd53a9264d70/go.mod h1:xsYvOKWtDWoDV0kdN3U8tYZ4lVrhjqf64cJRzR4ScTI=
+github.com/sumorf/talib v0.0.0-20190706083033-7d4a1bef148b h1:HYSV+LBKCMlgjBUxenh8+lDzE6fkk6DG86I0jRLeySs=
+github.com/sumorf/talib v0.0.0-20190706083033-7d4a1bef148b/go.mod h1:TmEbDKFXL3RIWoYghaTHZblcREbtIFOQz9YWqZHQOsI=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c h1:qgOY6WgZOaTkIIMiVjBQcw93ERBE4m30iBm00nkL0i8=
 golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 rsc.io/quote v1.5.2 h1:w5fcysjrx7yqtD/aO+QwRjYZOKnaM9Uh2b40tElTs3Y=
